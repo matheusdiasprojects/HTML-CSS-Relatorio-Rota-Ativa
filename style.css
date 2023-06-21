@@ -371,3 +371,46 @@ footer {
 #container-perfil .buttons .button-salvar:hover {
   background-color:rgb(2, 220, 1, 0.90);
 }
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width: 768px) {
+  aside {
+    display: none;
+  }
+
+  #container-dados {
+    flex-direction: column;
+  }
+
+  .dados-vagas {
+    margin-bottom: 20px;
+  }
+
+  header {
+    margin: 0;
+  }
+
+  header .login a {
+    display: none;
+  }
+
+  #container-saudacoes {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 120px;
+    width: 380px;
+  }
+
+  #container-dados {
+    justify-content: center;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  #container-dados .dados-vagas {
+    width: 380px;
+    margin-right: 20px;
+  }
+}
