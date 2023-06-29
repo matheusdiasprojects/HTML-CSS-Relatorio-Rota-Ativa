@@ -10,24 +10,20 @@ Este é o repositório da documentação do RotaAtiva, que fornece informações
 Visão Geral
 O objetivo deste projeto é fornecer uma plataforma online para busca de vagas de estacionamento em zonas azul. A documentação contida neste repositório tem como objetivo auxiliar no entendimento e utilização do projeto, fornecendo instruções claras sobre as funcionalidades disponíveis.
 
-Estrutura do Repositório
-index.html: Arquivo principal contendo o código HTML da documentação.
-styles.css: Arquivo de estilos CSS utilizado para a formatação da documentação.
+## Estrutura do Repositório
+
+- `index.html`: Arquivo principal contendo o código HTML da documentação.
+- `styles.css`: Arquivo de estilos CSS utilizado para a formatação da documentação.
 
 ## Como Utilizar
 
-Como Utilizar
-Clone este repositório em sua máquina local.
-Abra o arquivo index.html em um navegador web.
-Navegue pelas seções e leia as informações fornecidas para entender o funcionamento do projeto e como utilizá-lo.
-Utilize a barra de pesquisa para encontrar informações específicas.
-Consulte a tabela de vagas disponíveis para visualizar as oportunidades de emprego.
-Clique nas vagas para obter mais informações e candidatar-se.
+1. Clone este repositório em sua máquina local.
+2. Abra o arquivo `index.html` em um navegador web.
+3. Navegue pelas seções e leia as informações fornecidas.
 
 ## Contribuição
 
-Contribuição
-Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugestões de melhorias ou quiser adicionar novas funcionalidades à plataforma, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias para a documentação, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
