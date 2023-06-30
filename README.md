@@ -7,7 +7,6 @@ Este é o repositório da documentação do RotaAtiva, que fornece informações
 
 ## Visão Geral
 
-Visão Geral
 O objetivo deste projeto é fornecer uma plataforma online para busca de vagas de estacionamento em zonas azul. A documentação contida neste repositório tem como objetivo auxiliar no entendimento e utilização do projeto, fornecendo instruções claras sobre as funcionalidades disponíveis.
 
 ## Estrutura do Repositório
